@@ -4,9 +4,9 @@
 
 ### Directory
 
-[code] (code)
-[data] (data)
-[references] (references)
+[code](code)
+[data](data)
+[references](references)
 
 ---
 
